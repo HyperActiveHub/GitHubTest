@@ -1,0 +1,6 @@
+c:\users\proactive1337\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\GitHubTest\bin\x86\Debug\GitHubTest.exe
+c:\users\proactive1337\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\GitHubTest\bin\x86\Debug\GitHubTest.pdb
+c:\users\proactive1337\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\GitHubTest\obj\x86\Debug\GitHubTest.csprojResolveAssemblyReference.cache
+c:\users\proactive1337\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\GitHubTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\proactive1337\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\GitHubTest\obj\x86\Debug\GitHubTest.exe
+c:\users\proactive1337\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\GitHubTest\obj\x86\Debug\GitHubTest.pdb
